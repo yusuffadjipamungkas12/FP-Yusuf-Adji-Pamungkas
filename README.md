@@ -88,7 +88,6 @@ Statistics	Top 5 Scorers
 ![top5](https://github.com/user-attachments/assets/ddbe6703-127c-4cd6-b71d-46f6acf6cfc9)
 ---
 Video Link
-YouTube: (isi link setelah upload)
----
+YouTube: (https://youtu.be/ePiOxa7krgc)--
 GitHub Link
-(isi link repository kamu)
+(https://github.com/yusuffadjipamungkas12/FP-Yusuf-Adji-Pamungkas)
