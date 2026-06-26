@@ -1,8 +1,8 @@
 Simple Tic-Tac-Toe Game with Java Swing, Login, and Statistics
 Student Information
 Field	Value
-Name	(isi nama kamu)
-Student ID	(isi NRP kamu)
+Name	(Yusuf Adji Pamungkas)
+Student ID	(5026251050)
 Class	ES234211 – Programming Fundamental
 ---
 Project Description
