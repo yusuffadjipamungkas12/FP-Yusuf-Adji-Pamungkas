@@ -84,9 +84,8 @@ Login Window	Main Menu	Game Window
 )	![game](https://github.com/user-attachments/assets/7ecbee11-9b79-4d62-82c6-2adb847833a7)
 
 Statistics	Top 5 Scorers
-![stats](<img width="457" height="535" alt="image" src="https://github.com/user-attachments/assets/3082cccb-d221-435c-aabd-0c899a362998" />
-)	![top5](<img width="664" height="370" alt="image" src="https://github.com/user-attachments/assets/ddbe6703-127c-4cd6-b71d-46f6acf6cfc9" />
-)
+![stats](https://github.com/user-attachments/assets/3082cccb-d221-435c-aabd-0c899a362998)
+![top5](https://github.com/user-attachments/assets/ddbe6703-127c-4cd6-b71d-46f6acf6cfc9)
 ---
 Video Link
 YouTube: (isi link setelah upload)
