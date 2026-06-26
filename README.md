@@ -79,9 +79,10 @@ Class	Tanggung Jawab
 Screenshots
 (tambahkan screenshots di sini setelah program berjalan)
 Login Window	Main Menu	Game Window
-![login](<img width="585" height="415" alt="image" src="https://github.com/user-attachments/assets/31b5edc5-ba00-47dc-a8b6-ee7792d3cef8" />
-)	![menu](<img width="558" height="507" alt="image" src="https://github.com/user-attachments/assets/e5967340-eab3-4257-82e1-f01f4a6cff09" />
-)	![game](<img width="634" height="754" alt="image" src="https://github.com/user-attachments/assets/7ecbee11-9b79-4d62-82c6-2adb847833a7" />
+![login](<img width="585" height="415" alt="image" src="https://github.com/user-attachments/assets/db14ca33-1d04-4faa-aacd-9879a522dd0e" />
+)
+)	![menu](<img width="558" height="507" alt="image" src="https://github.com/user-attachments/assets/e5967340-eab3-4257-82e1-f01f4a6cff09" />)
+)	![game](<img width="634" height="754" alt="image" src="https://github.com/user-attachments/assets/7ecbee11-9b79-4d62-82c6-2adb847833a7" />)
 )
 
 Statistics	Top 5 Scorers
