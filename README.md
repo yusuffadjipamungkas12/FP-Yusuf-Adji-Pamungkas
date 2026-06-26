@@ -79,7 +79,7 @@ Class	Tanggung Jawab
 Screenshots
 (tambahkan screenshots di sini setelah program berjalan)
 Login Window	Main Menu	Game Window
-![login](<img width="585" height="415" alt="d58a8ce0-1683-4c1e-a32e-c4598de90462" src="https://github.com/user-attachments/assets/56fccefc-4e87-4e24-8cd7-98b7574f03a1" />
+![login](blob:https://web.whatsapp.com/d58a8ce0-1683-4c1e-a32e-c4598de90462
 )
 )	![menu](<img width="558" height="507" alt="image" src="https://github.com/user-attachments/assets/e5967340-eab3-4257-82e1-f01f4a6cff09" />)
 )	![game](<img width="634" height="754" alt="image" src="https://github.com/user-attachments/assets/7ecbee11-9b79-4d62-82c6-2adb847833a7" />)
