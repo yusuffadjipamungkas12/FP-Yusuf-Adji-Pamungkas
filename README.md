@@ -79,10 +79,15 @@ Class	Tanggung Jawab
 Screenshots
 (tambahkan screenshots di sini setelah program berjalan)
 Login Window	Main Menu	Game Window
-![login](screenshots/login-window.png)	![menu](screenshots/main-menu.png)	![game](screenshots/game-window.png)
+![login](<img width="585" height="415" alt="image" src="https://github.com/user-attachments/assets/31b5edc5-ba00-47dc-a8b6-ee7792d3cef8" />
+)	![menu](<img width="558" height="507" alt="image" src="https://github.com/user-attachments/assets/e5967340-eab3-4257-82e1-f01f4a6cff09" />
+)	![game](<img width="634" height="754" alt="image" src="https://github.com/user-attachments/assets/7ecbee11-9b79-4d62-82c6-2adb847833a7" />
+)
 
 Statistics	Top 5 Scorers
-![stats](screenshots/statistics-window.png)	![top5](screenshots/top-scorers-window.png)
+![stats](<img width="457" height="535" alt="image" src="https://github.com/user-attachments/assets/3082cccb-d221-435c-aabd-0c899a362998" />
+)	![top5](<img width="664" height="370" alt="image" src="https://github.com/user-attachments/assets/ddbe6703-127c-4cd6-b71d-46f6acf6cfc9" />
+)
 ---
 Video Link
 YouTube: (isi link setelah upload)
